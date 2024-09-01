@@ -76,7 +76,7 @@ def read_file(filename):
 
 setup(
     name="sente",
-    python_requires=">=3.8.*",
+    python_requires=">=3.8",
     version="0.4.4",
     author="Arthur Wesley",
     license="MIT",
